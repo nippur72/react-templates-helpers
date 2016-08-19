@@ -1,0 +1,26 @@
+{
+  "name": "react-templates-helpers",
+  "version": "0.0.1",
+  "description": "Runtime helper functions for react-templates",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react-templates"
+  ],
+  "author": "Antonino Porcino <nino.porcino@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@types/lodash": "^4.14.31",
+    "lodash": "^4.15.0"
+  },
+  "devDependencies": {
+    "typescript": "^2.1.0-dev.20160819"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/nippur72/react-templates-helpers"
+  },  
+  "typings": "index.d.ts"
+}
